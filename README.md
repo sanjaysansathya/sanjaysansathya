@@ -17,5 +17,5 @@
 
 
 📫  Connect with Me  
-- [LinkedIn](www.linkedin.com/in/sanjay-m-a36457310)  
+- [LinkedIn](https://www.linkedin.com/in/sanjay-m-a36457310/)  
 - [LeetCode](https://leetcode.com/u/murugesansanjay/)  
